@@ -4,7 +4,7 @@
   "description": "This package is the boilerplate to use in our company (TRIPTYK)",
   "main": "index.ts",
   "repository": "git@github.com:TRIPTYK/TPK-TS-NODE-BOILERPLATE.git",
-  "author": "gilles-bertrand <gilles@triptyk.eu>",
+  "author": "François Braibant",
   "license": "MIT",
   "volta": {
     "node": "14.16.1"
